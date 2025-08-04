@@ -6,10 +6,6 @@
 
 💻 Passionate about software development, Python, and building impactful tech solutions.
 
-🤝 Actively looking to collaborate on open-source projects.
-
-📫 Reach me at: rakshitabhat2004@gmail.com
-
 🌐 Pronouns: she/her
 
 
